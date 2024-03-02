@@ -20,8 +20,4 @@ Dependencies
 - `bin/rails db:create`
 - `bin/rails db:migrate`
 
-## Data Model
-
-![Data model](micro-reddit.drawio.png)
-
 [^1]: The Odin Project. _Project: Micro-Reddit_. https://www.theodinproject.com/lessons/ruby-on-rails-forms
